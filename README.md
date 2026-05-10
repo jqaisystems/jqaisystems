@@ -1,4 +1,4 @@
-# JQ AI SYSTEMS
+﻿# JQ AI SYSTEMS
 
 AI automation systems by Joao Queiros.
 
@@ -14,9 +14,9 @@ Main website: [ai.joaoqueiros.com](https://www.ai.joaoqueiros.com)
 
 ## Featured Repositories
 
-- [`jqai-internal-systems`](https://github.com/logobrandingdesign/jqai-internal-systems): case studies for studio-built AI systems. No source code, credentials, private prompts, or client data.
-- [`jqai-public-demos`](https://github.com/logobrandingdesign/jqai-public-demos): screenshots and links to public demo walkthroughs hosted on ai.joaoqueiros.com.
-- [`jqai-ai-skills`](https://github.com/logobrandingdesign/jqai-ai-skills): reusable AI skills released under the MIT License.
+- [`jqai-internal-systems`](https://github.com/jqaisystems/jqai-internal-systems): case studies for studio-built AI systems. No source code, credentials, private prompts, or client data.
+- [`jqai-public-demos`](https://github.com/jqaisystems/jqai-public-demos): screenshots and links to public demo walkthroughs hosted on ai.joaoqueiros.com.
+- [`jqai-ai-skills`](https://github.com/jqaisystems/jqai-ai-skills): reusable AI skills released under the MIT License.
 
 ## Production Focus
 
