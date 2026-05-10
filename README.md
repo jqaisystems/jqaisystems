@@ -1,38 +1,27 @@
 # JQ AI SYSTEMS
 
-AI automation systems by Joao Queiros.
+AI automation systems for studios, consultants, and small teams.
 
-I build practical AI systems for studios, consultants, agencies, and small teams: reporting tools, content pipelines, research briefings, lead generation workflows, prompt libraries, and multi-agent operating systems.
+I build practical Claude-powered workflows: research briefings, reporting tools, content pipelines, lead generation systems, review queues, and reusable AI skills.
 
-Main website: [ai.joaoqueiros.com](https://www.ai.joaoqueiros.com)
+[Website](https://www.ai.joaoqueiros.com) · [Systems](https://www.ai.joaoqueiros.com/systems) · [Demos](https://github.com/jqaisystems/jqai-public-demos) · [AI Skills](https://github.com/jqaisystems/jqai-ai-skills) · [Contact](https://www.ai.joaoqueiros.com/contact)
+
+## Public Proof
+
+| Repository | What it shows |
+|---|---|
+| [`jqai-internal-systems`](https://github.com/jqaisystems/jqai-internal-systems) | Case studies for internal systems built to run my own studio operations. |
+| [`jqai-public-demos`](https://github.com/jqaisystems/jqai-public-demos) | Screenshots and live walkthrough links for public workflow demos. |
+| [`jqai-ai-skills`](https://github.com/jqaisystems/jqai-ai-skills) | Reusable MIT-licensed AI skills for Claude/Codex-style workflows. |
 
 ## What I Build
 
-- **Internal systems:** tools first built to run my own studio operations, then adapted into client-ready patterns.
-- **Public demos:** visual walkthroughs of AI workflows, dashboards, review queues, and automation pipelines.
-- **AI skills:** reusable Claude/Codex-style skills for safer reviews, scraping support, copy cleanup, and codebase maintenance.
+- **Operational AI systems:** reporting tools, research briefings, content calendars, lead scoring, and client workflows.
+- **Human-in-the-loop pipelines:** AI drafts and scores, but review queues keep publishing and outreach under human control.
+- **Reusable AI infrastructure:** prompt libraries, skills, workflow templates, and source-owned client handoffs.
 
-## Featured Repositories
+## Why The Full Source Is Not Here
 
-- [`jqai-internal-systems`](https://github.com/jqaisystems/jqai-internal-systems): case studies for studio-built AI systems. No source code, credentials, private prompts, or client data.
-- [`jqai-public-demos`](https://github.com/jqaisystems/jqai-public-demos): screenshots and links to public demo walkthroughs hosted on ai.joaoqueiros.com.
-- [`jqai-ai-skills`](https://github.com/jqaisystems/jqai-ai-skills): reusable AI skills released under the MIT License.
+Client work, private prompts, API credentials, databases, logs, deployment files, and raw business data stay private.
 
-## Production Focus
-
-The work is built around real operating problems:
-
-- Turning CSV exports into reports.
-- Creating content calendars from brand memory.
-- Scoring and drafting outreach with human review.
-- Scheduling recurring research briefings.
-- Building review queues before anything gets published.
-
-I do not publish private client source, API keys, credentials, databases, logs, raw prompts, or deployment files.
-
-## Contact
-
-- Website: [ai.joaoqueiros.com](https://www.ai.joaoqueiros.com)
-- Services: [AI automation services](https://www.ai.joaoqueiros.com/services)
-- Systems: [production AI systems](https://www.ai.joaoqueiros.com/systems)
-- Contact: [book a free consultation](https://www.ai.joaoqueiros.com/contact)
+This GitHub profile is a proof layer. The main website is [ai.joaoqueiros.com](https://www.ai.joaoqueiros.com).
