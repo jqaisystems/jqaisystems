@@ -1,4 +1,4 @@
-﻿# JQ AI SYSTEMS
+# JQ AI SYSTEMS
 
 AI automation systems by Joao Queiros.
 
