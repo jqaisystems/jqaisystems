@@ -10,15 +10,15 @@ I build practical Claude-powered workflows: research briefings, reporting tools,
 [![AI Skills](https://img.shields.io/badge/AI_Skills-MIT-7c3aed?style=for-the-badge)](https://github.com/jqaisystems/jqai-ai-skills)
 [![Contact](https://img.shields.io/badge/Contact-Start_A_Project-f97316?style=for-the-badge)](https://www.ai.joaoqueiros.com/contact)
 
-GitHub is the public proof layer for JQ AI SYSTEMS. The production website and private client work are not published here.
+My website is the main showroom. GitHub is the public proof layer: a place to inspect sanitized case studies, demo walkthroughs, and reusable AI skills without exposing private source, client data, credentials, or deployment details.
 
 ## Public Proof
 
 | Repository | What it shows |
 |---|---|
-| [`jqai-internal-systems`](https://github.com/jqaisystems/jqai-internal-systems) | Case studies for internal systems built to run my own studio operations. No production source. |
-| [`jqai-public-demos`](https://github.com/jqaisystems/jqai-public-demos) | Screenshots and live walkthrough links for public workflow demos. No demo source. |
-| [`jqai-ai-skills`](https://github.com/jqaisystems/jqai-ai-skills) | Reusable MIT-licensed AI skills for Claude/Codex-style workflows. |
+| [`jqai-internal-systems`](https://github.com/jqaisystems/jqai-internal-systems) | Sanitized case studies for systems built to run my own studio operations. Start here for client proof. |
+| [`jqai-public-demos`](https://github.com/jqaisystems/jqai-public-demos) | Screenshots and live walkthrough links for public workflow demos. Watch how the systems behave. |
+| [`jqai-ai-skills`](https://github.com/jqaisystems/jqai-ai-skills) | Reusable MIT-licensed AI skills for Claude/Codex-style workflows. Useful for technical credibility. |
 
 ## What I Build
 
@@ -26,8 +26,12 @@ GitHub is the public proof layer for JQ AI SYSTEMS. The production website and p
 - **Human-in-the-loop pipelines:** AI drafts and scores, but review queues keep publishing and outreach under human control.
 - **Reusable AI infrastructure:** prompt libraries, skills, workflow templates, and source-owned client handoffs.
 
+## How To Read This GitHub
+
+If you are a potential client, start with the case studies and demos. If you are technical, inspect the skills repo. If you want the full offer, pricing logic, and contact path, use the website.
+
 ## Why The Full Source Is Not Here
 
 Client work, private prompts, API credentials, databases, logs, deployment files, and raw business data stay private.
 
-This GitHub profile is a proof layer. The main website is [ai.joaoqueiros.com](https://www.ai.joaoqueiros.com).
+Want a system like this for your business? Start here: [ai.joaoqueiros.com/contact](https://www.ai.joaoqueiros.com/contact).
