@@ -1,6 +1,6 @@
-# JQ AI SYSTEMS
+# Hey, I'm João
 
-AI automation systems for studios, consultants, and small teams.
+Founder of [JQ AI SYSTEMS](https://www.ai.joaoqueiros.com) — AI automation systems for studios, consultants, and small teams.
 
 I build practical Claude-powered workflows: research briefings, reporting tools, content pipelines, lead generation systems, review queues, and reusable AI skills.
 
@@ -35,3 +35,8 @@ If you are a potential client, start with the case studies and demos. If you are
 Client work, private prompts, API credentials, databases, logs, deployment files, and raw business data stay private.
 
 Want a system like this for your business? Start here: [ai.joaoqueiros.com/contact](https://www.ai.joaoqueiros.com/contact).
+
+## Connect
+
+[![X](https://img.shields.io/badge/X-@joaojbqueiros-black?logo=x)](https://x.com/joaojbqueiros)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JQ_AI_SYSTEMS-0A66C2?logo=linkedin)](https://www.linkedin.com/company/jq-ai-systems/)
