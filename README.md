@@ -26,6 +26,10 @@ My website is the main showroom. GitHub is the public proof layer: a place to in
 - **Human-in-the-loop pipelines:** AI drafts and scores, but review queues keep publishing and outreach under human control.
 - **Reusable AI infrastructure:** prompt libraries, skills, workflow templates, and source-owned client handoffs.
 
+## Current Stack
+
+Codex, Claude Code, Python/FastAPI, PHP, SQLite, OpenAI and Anthropic APIs, Firecrawl, Apollo, Buffer, Google Search Console, PostHog, Obsidian, and Adobe creative tools.
+
 ## How To Read This GitHub
 
 If you are a potential client, start with the case studies and demos. If you are technical, inspect the skills repo. If you want the full offer, pricing logic, and contact path, use the website.
