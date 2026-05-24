@@ -2,7 +2,7 @@
 
 Founder of [JQ AI SYSTEMS](https://www.ai.joaoqueiros.com) — AI automation systems for studios, consultants, and small teams.
 
-I build practical Claude-powered workflows: research briefings, reporting tools, content pipelines, lead generation systems, review queues, and reusable AI skills.
+I build Codex-first AI systems, using Claude, OpenAI, Gemini, and automation APIs where they fit: research briefings, reporting tools, content pipelines, lead generation systems, review queues, and reusable AI skills.
 
 [![Website](https://img.shields.io/badge/Website-ai.joaoqueiros.com-111827?style=for-the-badge)](https://www.ai.joaoqueiros.com)
 [![Systems](https://img.shields.io/badge/Systems-Case_Studies-2563eb?style=for-the-badge)](https://www.ai.joaoqueiros.com/systems)
@@ -18,7 +18,7 @@ My website is the main showroom. GitHub is the public proof layer: a place to in
 |---|---|
 | [`jqai-internal-systems`](https://github.com/jqaisystems/jqai-internal-systems) | Sanitized case studies for systems built to run my own studio operations. Start here for client proof. |
 | [`jqai-public-demos`](https://github.com/jqaisystems/jqai-public-demos) | Screenshots and live walkthrough links for public workflow demos. Watch how the systems behave. |
-| [`jqai-ai-skills`](https://github.com/jqaisystems/jqai-ai-skills) | Reusable MIT-licensed AI skills for Claude/Codex-style workflows. Useful for technical credibility. |
+| [`jqai-ai-skills`](https://github.com/jqaisystems/jqai-ai-skills) | Reusable MIT-licensed AI skills for Codex/Claude-style workflows. Useful for technical credibility. |
 
 ## What I Build
 
