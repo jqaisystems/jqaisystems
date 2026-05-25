@@ -1,6 +1,6 @@
 # Hey, I'm João
 
-Founder of [JQ AI SYSTEMS](https://www.ai.joaoqueiros.com) — AI automation systems for studios, consultants, and small teams.
+Founder of [JQ AI SYSTEMS](https://www.ai.joaoqueiros.com) - AI automation systems for studios, consultants, and small teams.
 
 I build Codex-first AI systems, using Claude, OpenAI, Gemini, and automation APIs where they fit: research briefings, reporting tools, content pipelines, lead generation systems, review queues, and reusable AI skills.
 
