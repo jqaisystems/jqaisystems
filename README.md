@@ -12,13 +12,17 @@ I build Codex-first AI systems, using Claude, OpenAI, Gemini, and automation API
 
 My website is the main showroom. GitHub is the public proof layer: a place to inspect sanitized case studies, demo walkthroughs, and reusable AI skills without exposing private source, client data, credentials, or deployment details.
 
+## Featured Release
+
+[`jqai-ai-skills v0.2.4`](https://github.com/jqaisystems/jqai-ai-skills/releases/tag/v0.2.4) is the current public skills library release: packaged Codex/Claude-style skill folders, OpenAI metadata, preview assets, Codex install instructions, a reusable skill template, and safety-reviewed workflows for publishing, scraping, skill review, copy cleanup, code deduplication, and demo generation.
+
 ## Public Proof
 
 | Repository | What it shows |
 |---|---|
 | [`jqai-internal-systems`](https://github.com/jqaisystems/jqai-internal-systems) | Sanitized case studies for systems built to run my own studio operations. Start here for client proof. |
 | [`jqai-public-demos`](https://github.com/jqaisystems/jqai-public-demos) | Screenshots and live walkthrough links for public workflow demos. Watch how the systems behave. |
-| [`jqai-ai-skills`](https://github.com/jqaisystems/jqai-ai-skills) | Reusable MIT-licensed AI skills for Codex/Claude-style workflows. Useful for technical credibility. |
+| [`jqai-ai-skills`](https://github.com/jqaisystems/jqai-ai-skills) | Reusable MIT-licensed AI skills for Codex/Claude-style workflows. Start with the [`v0.2.4` release](https://github.com/jqaisystems/jqai-ai-skills/releases/tag/v0.2.4). |
 
 ## What I Build
 
