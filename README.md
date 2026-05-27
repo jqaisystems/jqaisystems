@@ -10,11 +10,19 @@ I build Codex-first AI systems, using Claude, OpenAI, Gemini, and automation API
 [![AI Skills](https://img.shields.io/badge/AI_Skills-MIT-7c3aed?style=for-the-badge)](https://github.com/jqaisystems/jqai-ai-skills)
 [![Contact](https://img.shields.io/badge/Contact-Start_A_Project-f97316?style=for-the-badge)](https://www.ai.joaoqueiros.com/contact)
 
-My website is the main showroom. GitHub is the public proof layer: a place to inspect sanitized case studies, demo walkthroughs, and reusable AI skills without exposing private source, client data, credentials, or deployment details.
+My website is the main showroom. GitHub is the public proof layer: a place to inspect sanitized case studies, demo walkthroughs, and reusable AI skills without exposing sensitive implementation details or business data.
 
 ## Featured Release
 
 [`jqai-ai-skills v0.3.0`](https://github.com/jqaisystems/jqai-ai-skills/releases/tag/v0.3.0) is the current public skills library release: a validated collection of Codex/Claude-style skill folders with GitHub Actions checks, quick install scripts, categorized README navigation, install demo media, and safety-reviewed workflows for publishing, case studies, outreach pipelines, marketplace listings, scraping, skill review, copy cleanup, code deduplication, demo generation, and release announcements.
+
+## Featured System
+
+[`AI News Curator`](https://www.ai.joaoqueiros.com/systems/ai-news-curator) is the newest live JQ AI SYSTEMS case study: a research briefing workflow that turns scattered AI, coding, design, and automation signals into a daily brief, organized archive, and human-reviewed public/private decision queue.
+
+Public proof: [`jqai-internal-systems/case-studies/ai-news-curator.md`](https://github.com/jqaisystems/jqai-internal-systems/blob/main/case-studies/ai-news-curator.md)
+
+Announcement copy: [`announcements/ai-news-curator-live.md`](announcements/ai-news-curator-live.md)
 
 ## Public Proof
 
