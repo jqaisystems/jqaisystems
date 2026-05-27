@@ -20,6 +20,8 @@ My website is the main showroom. GitHub is the public proof layer: a place to in
 
 [`AI News Curator`](https://www.ai.joaoqueiros.com/systems/ai-news-curator) is the newest live JQ AI SYSTEMS case study: a research briefing workflow that turns scattered AI, coding, design, and automation signals into a daily brief, organized archive, and human-reviewed public/private decision queue.
 
+Live walkthrough: [`AI News Curator demo`](https://www.ai.joaoqueiros.com/demo/ai-news-curator.html)
+
 Public proof: [`jqai-internal-systems/case-studies/ai-news-curator.md`](https://github.com/jqaisystems/jqai-internal-systems/blob/main/case-studies/ai-news-curator.md)
 
 Announcement copy: [`announcements/ai-news-curator-live.md`](announcements/ai-news-curator-live.md)

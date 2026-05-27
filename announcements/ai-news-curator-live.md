@@ -1,6 +1,6 @@
 # AI News Curator Is Live
 
-Public-safe announcement copy for the AI News Curator system page.
+Public-safe announcement copy for the AI News Curator system page and live demo.
 
 ## LinkedIn
 
@@ -15,6 +15,9 @@ The public case study shares the workflow shape without exposing private source 
 Read it here:
 https://www.ai.joaoqueiros.com/systems/ai-news-curator
 
+Watch the demo:
+https://www.ai.joaoqueiros.com/demo/ai-news-curator.html
+
 ## X
 
 AI News Curator is live.
@@ -24,3 +27,6 @@ It turns scattered AI, coding, design, and automation signals into a daily brief
 Saved links are not useful until they become a system.
 
 https://www.ai.joaoqueiros.com/systems/ai-news-curator
+
+Demo:
+https://www.ai.joaoqueiros.com/demo/ai-news-curator.html
