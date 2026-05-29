@@ -18,6 +18,8 @@ My website is the main showroom. GitHub is the public proof layer: a place to in
 
 Sample artifact: [`research-brief-curator-sample.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/research-brief-curator-sample.md)
 
+Announcement copy: [`announcements/jqai-ai-skills-v0.3.2.md`](announcements/jqai-ai-skills-v0.3.2.md)
+
 ## Featured System
 
 [`AI News Curator`](https://www.ai.joaoqueiros.com/systems/ai-news-curator) is the newest live JQ AI SYSTEMS case study: a research briefing workflow that turns scattered AI, coding, design, and automation signals into a daily brief, organized archive, and human-reviewed public/private decision queue.
