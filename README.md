@@ -14,11 +14,13 @@ My website is the main showroom. GitHub is the public proof layer: a place to in
 
 ## Featured Release
 
-[`jqai-ai-skills v0.3.2`](https://github.com/jqaisystems/jqai-ai-skills/releases/tag/v0.3.2) is the current public skills library release: a validated collection of Codex/Claude-style skill folders with GitHub Actions checks, quick install scripts, categorized README navigation, install demo media, a fake-data research brief example, and safety-reviewed workflows for publishing, case studies, research brief curation, outreach pipelines, marketplace listings, scraping, skill review, copy cleanup, code deduplication, demo generation, and release announcements.
+[`jqai-ai-skills v0.3.3`](https://github.com/jqaisystems/jqai-ai-skills/releases/tag/v0.3.3) is the current public skills library release: a validated collection of Codex/Claude-style skill folders with GitHub Actions checks, quick install scripts, categorized README navigation, install demo media, a fake-data safety review sample, a fake-data research brief example, and safety-reviewed workflows for publishing, case studies, research brief curation, outreach pipelines, marketplace listings, scraping, skill review, copy cleanup, code deduplication, demo generation, and release announcements.
 
-Sample artifact: [`research-brief-curator-sample.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/research-brief-curator-sample.md)
+Sample artifacts: [`github-safe-publisher-sample-review.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/github-safe-publisher-sample-review.md) and [`research-brief-curator-sample.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/research-brief-curator-sample.md)
 
-Announcement copy: [`announcements/jqai-ai-skills-v0.3.2.md`](announcements/jqai-ai-skills-v0.3.2.md)
+Field note: [`From Prompt Library to Skill Library`](https://www.ai.joaoqueiros.com/blog/prompt-library-to-installable-ai-skills)
+
+Announcement copy: [`announcements/jqai-ai-skills-v0.3.3.md`](announcements/jqai-ai-skills-v0.3.3.md)
 
 ## Featured System
 
@@ -36,7 +38,7 @@ Announcement copy: [`announcements/ai-news-curator-live.md`](announcements/ai-ne
 |---|---|
 | [`jqai-internal-systems`](https://github.com/jqaisystems/jqai-internal-systems) | Sanitized case studies for systems built to run my own studio operations. Start here for client proof. |
 | [`jqai-public-demos`](https://github.com/jqaisystems/jqai-public-demos) | Screenshots and live walkthrough links for public workflow demos. Watch how the systems behave. |
-| [`jqai-ai-skills`](https://github.com/jqaisystems/jqai-ai-skills) | Reusable MIT-licensed AI skills for Codex/Claude-style workflows. Start with the [`v0.3.2` release](https://github.com/jqaisystems/jqai-ai-skills/releases/tag/v0.3.2) or inspect the [`research brief sample`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/research-brief-curator-sample.md). |
+| [`jqai-ai-skills`](https://github.com/jqaisystems/jqai-ai-skills) | Reusable MIT-licensed AI skills for Codex/Claude-style workflows. Start with the [`v0.3.3` release](https://github.com/jqaisystems/jqai-ai-skills/releases/tag/v0.3.3) or inspect the [`safety review sample`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/github-safe-publisher-sample-review.md). |
 
 ## What I Build
 
