@@ -14,13 +14,13 @@ My website is the main showroom. GitHub is the public proof layer: a place to in
 
 ## Featured Release
 
-[`jqai-ai-skills v0.3.5`](https://github.com/jqaisystems/jqai-ai-skills/releases/tag/v0.3.5) is the current public skills library release: a validated collection of Codex/Claude-style skill folders with GitHub Actions checks, quick install scripts, categorized README navigation, a first-skill selection guide, starter sets for common workflows, demo media, sample artifacts, and safety-reviewed workflows for publishing, case studies, research brief curation, outreach pipelines, marketplace listings, scraping, skill review, copy cleanup, code deduplication, demo generation, and release announcements.
+[`jqai-ai-skills v0.3.6`](https://github.com/jqaisystems/jqai-ai-skills/releases/tag/v0.3.6) is the current public skills library release: a validated collection of Codex/Claude-style skill folders with GitHub Actions checks, quick install scripts, categorized README navigation, a complete public catalog, a first-skill selection guide, starter sets for common workflows, stable 2026 social preview, demo media, sample artifacts, and safety-reviewed workflows for publishing, case studies, research brief curation, outreach pipelines, marketplace listings, scraping, skill review, copy cleanup, code deduplication, demo generation, and release announcements.
 
-Guide and sample artifacts: [`skill-selection.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/guides/skill-selection.md), [`case-study-writer-sample.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/case-study-writer-sample.md), [`github-safe-publisher-sample-review.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/github-safe-publisher-sample-review.md), and [`research-brief-curator-sample.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/research-brief-curator-sample.md)
+Guide and sample artifacts: [`catalog.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/catalog.md), [`skill-selection.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/guides/skill-selection.md), [`case-study-writer-sample.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/case-study-writer-sample.md), [`github-safe-publisher-sample-review.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/github-safe-publisher-sample-review.md), and [`research-brief-curator-sample.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/research-brief-curator-sample.md)
 
 Field note: [`From Prompt Library to Skill Library`](https://www.ai.joaoqueiros.com/blog/prompt-library-to-installable-ai-skills)
 
-Announcement copy: [`announcements/jqai-ai-skills-v0.3.5.md`](announcements/jqai-ai-skills-v0.3.5.md)
+Announcement copy: [`announcements/jqai-ai-skills-v0.3.6.md`](announcements/jqai-ai-skills-v0.3.6.md)
 
 ## Featured System
 
@@ -38,7 +38,7 @@ Announcement copy: [`announcements/ai-news-curator-live.md`](announcements/ai-ne
 |---|---|
 | [`jqai-internal-systems`](https://github.com/jqaisystems/jqai-internal-systems) | Sanitized case studies for systems built to run my own studio operations. Start here for client proof. |
 | [`jqai-public-demos`](https://github.com/jqaisystems/jqai-public-demos) | Screenshots and live walkthrough links for public workflow demos. Watch how the systems behave. |
-| [`jqai-ai-skills`](https://github.com/jqaisystems/jqai-ai-skills) | Reusable MIT-licensed AI skills for Codex/Claude-style workflows. Start with the [`v0.3.5` release](https://github.com/jqaisystems/jqai-ai-skills/releases/tag/v0.3.5) or use the [`skill selection guide`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/guides/skill-selection.md). |
+| [`jqai-ai-skills`](https://github.com/jqaisystems/jqai-ai-skills) | Reusable MIT-licensed AI skills for Codex/Claude-style workflows. Start with the [`v0.3.6` release](https://github.com/jqaisystems/jqai-ai-skills/releases/tag/v0.3.6), browse the [`catalog`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/catalog.md), or use the [`skill selection guide`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/guides/skill-selection.md). |
 
 ## What I Build
 
