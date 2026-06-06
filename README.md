@@ -74,9 +74,10 @@ Announcement copy: [`announcements/ai-news-curator-live.md`](announcements/ai-ne
 
 | Repository | What it shows |
 |---|---|
+| [`jqai-ai-skills`](https://github.com/jqaisystems/jqai-ai-skills) | MIT-licensed reusable AI skills for Codex/Claude-style workflows. Start with [`START_HERE.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/START_HERE.md), inspect the [`public proof index`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/public-proof-index.md), review the [`release showcase handoff sample`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/release-showcase-handoff-sample.md), compare maturity in the [`quality matrix`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/skill-quality-matrix.md), and browse the [`complete catalog`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/catalog.md). |
+| [`codex-control-center`](https://github.com/jqaisystems/codex-control-center) | Local-first Codex dashboard for observability, usage insights, vault health, and approval-gated workflow review. Open the [`live demo`](https://jqaisystems.github.io/codex-control-center/demo/). |
 | [`jqai-internal-systems`](https://github.com/jqaisystems/jqai-internal-systems) | Sanitized case studies for systems built to run my own studio operations. Start here for client proof. |
 | [`jqai-public-demos`](https://github.com/jqaisystems/jqai-public-demos) | Screenshots and live walkthrough links for public workflow demos. Watch how the systems behave. |
-| [`jqai-ai-skills`](https://github.com/jqaisystems/jqai-ai-skills) | MIT-licensed reusable AI skills for Codex/Claude-style workflows. Start with [`START_HERE.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/START_HERE.md), inspect the [`public proof index`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/public-proof-index.md), review the [`release showcase handoff sample`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/release-showcase-handoff-sample.md), compare maturity in the [`quality matrix`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/skill-quality-matrix.md), and browse the [`complete catalog`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/catalog.md). |
 
 ## Current Stack
 
