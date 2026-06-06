@@ -10,7 +10,7 @@ I build Codex-first AI systems, using Claude, OpenAI, Gemini, and automation API
 [![AI Skills](https://img.shields.io/badge/AI_Skills-MIT-7c3aed?style=for-the-badge)](https://github.com/jqaisystems/jqai-ai-skills)
 [![Contact](https://img.shields.io/badge/Contact-Start_A_Project-f97316?style=for-the-badge)](https://www.ai.joaoqueiros.com/contact)
 
-![JQ AI SYSTEMS developer systems hero](assets/profile/jqai-profile-hero.png)
+![JQ AI SYSTEMS AI automation workspace hero](assets/profile/jqai-systems-workspace-hero.png)
 
 My website is the main showroom. GitHub is the public proof layer: a place to inspect sanitized case studies, demo walkthroughs, and reusable AI skills without exposing sensitive implementation details or business data.
 
@@ -23,6 +23,10 @@ Key proof links: [`release-showcase-handoff-sample.md`](https://github.com/jqais
 Field note: [`From Prompt Library to Skill Library`](https://www.ai.joaoqueiros.com/blog/prompt-library-to-installable-ai-skills)
 
 Announcement copy: [`announcements/jqai-ai-skills-v0.7.5.md`](announcements/jqai-ai-skills-v0.7.5.md)
+
+## Workflow Map
+
+![JQ AI SYSTEMS workflow map](assets/profile/jqai-profile-hero.png)
 
 ## What I Build
 
@@ -39,6 +43,22 @@ Announcement copy: [`announcements/jqai-ai-skills-v0.7.5.md`](announcements/jqai
 - **Reusable AI infrastructure:** prompt libraries, skills, workflow templates, and source-owned client handoffs.
 
 Image prompts and public-safe generation notes: [`assets/profile/README.md`](assets/profile/README.md)
+
+## System Snapshots
+
+Public-safe visual mockups of the kinds of systems I build, review, and publish.
+
+### AI Automation Systems
+
+![AI automation systems dashboard with research briefs, review queues, reporting, and API workflows](assets/profile/ai-automation-systems.png)
+
+### Reusable AI Skills Workspace
+
+![Reusable AI skills workspace with skill folders, markdown templates, repository cards, config, and terminal validation](assets/profile/reusable-ai-skills-workspace.png)
+
+### Public Proof Workflow
+
+![Public proof workflow showing release notes, sanitized case study, checklist, publishing, and handoff steps](assets/profile/public-proof-workflow.png)
 
 ## Featured System
 

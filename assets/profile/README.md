@@ -5,9 +5,13 @@ These assets support the GitHub profile README for JQ AI SYSTEMS.
 Files:
 
 - `jqai-profile-hero.png` - profile hero for AI automation systems.
+- `jqai-systems-workspace-hero.png` - cinematic top hero for the GitHub profile.
 - `ai-systems-tile.png` - operational AI systems visual.
 - `reusable-skills-tile.png` - installable AI skills visual.
 - `public-proof-tile.png` - release-to-showcase proof visual.
+- `ai-automation-systems.png` - stacked system snapshot for automation dashboards and review queues.
+- `reusable-ai-skills-workspace.png` - stacked system snapshot for skills folders, templates, config, and validation.
+- `public-proof-workflow.png` - stacked system snapshot for release notes, public proof, and handoff flow.
 
 Public-safe boundaries:
 
