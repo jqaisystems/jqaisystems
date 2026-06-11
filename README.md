@@ -16,13 +16,13 @@ My website is the main showroom. GitHub is the public proof layer: a place to in
 
 ## Featured Release
 
-[`jqai-ai-skills v0.7.5`](https://github.com/jqaisystems/jqai-ai-skills/releases/tag/v0.7.5) is the current public skills library release. It adds a release-to-showcase handoff proof sample, showing how a GitHub release moves into profile copy, website source updates, host upload packages, live verification, and final project notes.
+[`jqai-ai-skills v0.8.0`](https://github.com/jqaisystems/jqai-ai-skills/releases/tag/v0.8.0) is the current public skills library release and the largest so far. Nine new skills grow the library from 12 to 21: PHP form mailing, branded client intake questionnaires, cold outreach drafting, lead scoring, brand voice linting, Obsidian daily notes, idea capture, llms.txt generation for AI search, and report-first folder cleanup. Every skill ships with read-more pages and free downloads at [ai.joaoqueiros.com/skills](https://www.ai.joaoqueiros.com/skills/).
 
-Key proof links: [`release-showcase-handoff-sample.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/release-showcase-handoff-sample.md), [`START_HERE.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/START_HERE.md), [`QUICK_REFERENCE.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/QUICK_REFERENCE.md), [`public-proof-index.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/public-proof-index.md), [`skill-quality-matrix.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/skill-quality-matrix.md), and [`catalog.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/catalog.md).
+Key proof links: [`catalog.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/catalog.md), [`skill-quality-matrix.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/skill-quality-matrix.md), [`START_HERE.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/START_HERE.md), [`QUICK_REFERENCE.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/QUICK_REFERENCE.md), [`public-proof-index.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/public-proof-index.md), and [`CHANGELOG.md`](https://github.com/jqaisystems/jqai-ai-skills/blob/main/CHANGELOG.md).
 
 Field note: [`From Prompt Library to Skill Library`](https://www.ai.joaoqueiros.com/blog/prompt-library-to-installable-ai-skills)
 
-Announcement copy: [`announcements/jqai-ai-skills-v0.7.5.md`](announcements/jqai-ai-skills-v0.7.5.md)
+Announcement copy: [`announcements/jqai-ai-skills-v0.8.0.md`](announcements/jqai-ai-skills-v0.8.0.md)
 
 ## Workflow Map
 
