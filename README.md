@@ -1,63 +1,28 @@
-# Hi, I'm João
+# I'm João Queirós
 
-Founder of [JQ AI SYSTEMS](https://www.ai.joaoqueiros.com). I build AI systems that turn repetitive research, content and operations work into workflows people can review and run.
+A brand designer and builder based in Porto. I create brand identities, websites, product films and AI systems.
 
-Built for studios, consultants and small teams.
+<a href="https://www.joaoqueiros.com/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/profile/joao-queiros-banner.png"><img src="assets/profile/joao-queiros-banner.gif" alt="João Queirós: brand design, websites, films and AI systems, with examples of original work"></picture></a>
 
-[Selected work](#selected-work) · [Try the demos](https://github.com/jqaisystems/jqai-public-demos) · [AI skills](https://github.com/jqaisystems/jqai-ai-skills) · [Discuss a project](https://www.ai.joaoqueiros.com/contact)
+[Static banner](assets/profile/joao-queiros-banner.png)
 
-<a href="https://www.ai.joaoqueiros.com/systems"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/profile/jqai-systems-workspace-hero.png"><img src="assets/profile/jqai-profile-preview.gif" alt="JQ AI SYSTEMS: AI systems built for work, with excerpts from three system films"></picture></a>
+## Find the right work
 
-[Static preview](assets/profile/jqai-systems-workspace-hero.png) · [Explore the systems](https://www.ai.joaoqueiros.com/systems)
+| Looking for… | Start here |
+|---|---|
+| Brand identity and logo design | [João Queirós](https://www.joaoqueiros.com/) |
+| Website design and development | [Scrollwork](https://www.ai.joaoqueiros.com/scrollwork) |
+| SEO audits and ongoing checkpoints | [Cairn](https://www.ai.joaoqueiros.com/cairn) |
+| AI automation and business systems | [JQ AI SYSTEMS](https://www.ai.joaoqueiros.com/) |
+| Creative coding, films and reusable examples | [Visions Recipes](https://github.com/jqaisystems/visions-recipes) |
 
 ## Selected work
 
-### Etsy to Pinterest
+- **[Scrollwork](https://www.ai.joaoqueiros.com/scrollwork):** brand-led websites, designed and built to move with the scroll. [Breakdown](https://github.com/jqaisystems/jqai-internal-systems/blob/main/case-studies/scrollwork.md).
+- **[Cairn](https://www.ai.joaoqueiros.com/cairn):** SEO audits and four-week checkpoints, with a written decision at each stage. [Breakdown](https://github.com/jqaisystems/jqai-internal-systems/blob/main/case-studies/cairn.md).
+- **[Visions Recipes](https://github.com/jqaisystems/visions-recipes):** films made in code, with prompts, remix notes and source you can explore.
+- **[JQ AI Skills](https://github.com/jqaisystems/jqai-ai-skills):** reusable workflows with instructions, examples and a guided installation path.
 
-Turn listings into Pinterest-ready content. Review and schedule image pins; prepare video pins in a separate manual queue.
+[More case studies](https://github.com/jqaisystems/jqai-internal-systems) · [Guided demos](https://github.com/jqaisystems/jqai-public-demos)
 
-[![Etsy to Pinterest: listings in, a reviewable queue out](assets/profile/etsy-to-pinterest-card.png)](https://www.ai.joaoqueiros.com/systems/etsy-to-pinterest)
-
-[Case study](https://www.ai.joaoqueiros.com/systems/etsy-to-pinterest) · [Open demo](https://www.ai.joaoqueiros.com/demo/etsy-to-pinterest.html) · [Watch the film](https://www.ai.joaoqueiros.com/media/systems/films/etsy-to-pinterest.mp4)
-
-### Adobe Stock Uploader
-
-Read image batches, prepare ordered metadata, and validate the CSV before final human review and submission.
-
-[![Adobe Stock Uploader: batch metadata validated before upload](assets/profile/adobe-stock-uploader-card.png)](https://www.ai.joaoqueiros.com/systems/adobe-stock-uploader)
-
-[Case study](https://www.ai.joaoqueiros.com/systems/adobe-stock-uploader) · [Open demo](https://www.ai.joaoqueiros.com/demo/adobe-stock-uploader.html) · [Watch the film](https://www.ai.joaoqueiros.com/media/systems/films/adobe-stock-uploader.mp4)
-
-### SEO Engine
-
-Bring indexing checks, sitemap validation and dated search checkpoints into a repeatable operating routine.
-
-[![SEO Engine: search work run like a system](assets/profile/seo-engine-card.png)](https://www.ai.joaoqueiros.com/systems/seo-engine)
-
-[Case study](https://www.ai.joaoqueiros.com/systems/seo-engine) · [Watch the film](https://www.ai.joaoqueiros.com/media/systems/films/seo-engine.mp4) · [Public breakdown](https://github.com/jqaisystems/jqai-internal-systems/blob/main/case-studies/seo-engine.md)
-
-The film excerpts explain the workflows visually. Open the linked demos for guided interfaces using sample data.
-
-## Open-source tools
-
-| Project | Start here |
-|---|---|
-| [JQ AI Skills](https://github.com/jqaisystems/jqai-ai-skills) | Portable, MIT-licensed instruction folders for Codex and Claude Code. [Browse the catalog](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/catalog.md), [inspect examples](https://github.com/jqaisystems/jqai-ai-skills/blob/main/docs/examples/public-proof-index.md), or read the [latest release](https://github.com/jqaisystems/jqai-ai-skills/releases/latest). |
-| [Codex Control Center](https://github.com/jqaisystems/codex-control-center) | Local observability and workflow review for Codex. [Try the sample-data demo](https://jqaisystems.github.io/codex-control-center/demo/). |
-| [OutreachIQ](https://github.com/jqaisystems/outreachiq) | Lead research, drafting, tone checks and a human review gate. [Explore the product](https://www.outreachiq.joaoqueiros.com/). |
-| [Thumbnail Studio](https://github.com/jqaisystems/thumbnail-studio) | A local workspace for thumbnail options, comparison and export. [Explore the product](https://www.ai.joaoqueiros.com/thumbnailstudio). |
-
-<details>
-<summary>How I build and what you can inspect</summary>
-
-I work with Codex, Claude Code, Python/FastAPI, PHP, SQLite and automation APIs, choosing the tools around the workflow.
-
-The [case-study repository](https://github.com/jqaisystems/jqai-internal-systems) explains the problem, workflow and review points. The [demo gallery](https://github.com/jqaisystems/jqai-public-demos) lets you explore the public walkthroughs. Client data, credentials and private implementation details stay private.
-
-</details>
-
-## Have a workflow in mind?
-
-[Discuss a project](https://www.ai.joaoqueiros.com/contact) or explore the [full website](https://www.ai.joaoqueiros.com).
-
-[LinkedIn](https://www.linkedin.com/company/jq-ai-systems/) · [X](https://x.com/joaojbqueiros) · Porto, Portugal
+Have a project in mind? **[Start a conversation](https://www.ai.joaoqueiros.com/contact)**.
