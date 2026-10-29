@@ -18,6 +18,16 @@ A brand designer and builder based in Porto. I create brand identities, websites
 
 ## Selected work
 
+### Agent Inc. / Brand identity
+
+Logo, visual identity and brand applications for a California real estate brokerage. **My role:** brand identity and graphic design, including stationery, property brochures and brand guidelines.
+
+<a href="https://www.joaoqueiros.com/portfolio-agent-inc-real-estate-branding.html"><img src="assets/profile/agent-inc-brand-identity.webp" alt="Agent Inc. identity applied to letterhead, envelopes, business cards and an email signature" width="480"></a>
+
+[View the full branding project](https://www.joaoqueiros.com/portfolio-agent-inc-real-estate-branding.html) · [Read the case study](https://github.com/jqaisystems/jqai-internal-systems/blob/main/case-studies/agent-inc-brand-identity.md)
+
+### Websites, creative coding and AI
+
 - **[Scrollwork](https://www.ai.joaoqueiros.com/scrollwork):** brand-led websites, designed and built to move with the scroll. [Breakdown](https://github.com/jqaisystems/jqai-internal-systems/blob/main/case-studies/scrollwork.md).
 - **[Cairn](https://www.ai.joaoqueiros.com/cairn):** SEO audits and four-week checkpoints, with a written decision at each stage. [Breakdown](https://github.com/jqaisystems/jqai-internal-systems/blob/main/case-studies/cairn.md).
 - **[Visions Recipes](https://github.com/jqaisystems/visions-recipes):** films made in code, with prompts, remix notes and source you can explore.
